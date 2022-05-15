@@ -5,4 +5,4 @@ Git tracks changes
 Git tracks changes fo files
 Create a new branch dev is quick.
 updating branch dev
-creating a new branch is quick and simple
+creating a new branch is quick and simple master
